@@ -24,7 +24,7 @@
 
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=haojie&show_icons=true&theme=graywhite&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" alt="haojie's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haojie06&layout=compact&theme=graywhite&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=haojie&show_icons=true&theme=graywhite&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" alt="haojie's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haojie06&layout=compact&theme=graywhite&hide_border=true&hide=css,html" /> |
 | ------------- | ------------- |
 
 

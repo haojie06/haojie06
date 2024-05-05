@@ -18,11 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go                 14 hrs 22 mins  ███████████████░░░░░░░░░░   59.68 %
-YAML               6 hrs 59 mins   ███████▒░░░░░░░░░░░░░░░░░   28.99 %
-TypeScript         1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
-reStructuredText   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-JavaScript         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Go                 14 hrs 24 mins  ████████████████▓░░░░░░░░   67.33 %
+YAML               4 hrs 9 mins    █████░░░░░░░░░░░░░░░░░░░░   19.39 %
+TypeScript         1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+reStructuredText   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+JavaScript         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
